@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.525...HEAD)
+## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.526...HEAD)
+
+## [3.2.526](https://github.com/bridgecrewio/checkov/compare/3.2.525...3.2.526) - 2026-04-30
+
+### Bug Fix
+
+- **helm:** Accept helm version greater than v3 - [#7399](https://github.com/bridgecrewio/checkov/pull/7399)
 
 ## [3.2.525](https://github.com/bridgecrewio/checkov/compare/3.2.524...3.2.525) - 2026-04-26
 
