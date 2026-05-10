@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.527...HEAD)
+## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.2.528...HEAD)
+
+## [3.2.528](https://github.com/bridgecrewio/checkov/compare/3.2.527...3.2.528) - 2026-05-10
+
+### Bug Fix
+
+- **secrets:** report all multiline regex matches per file, not just first occurrence - FIX - [#7540](https://github.com/bridgecrewio/checkov/pull/7540)
 
 ## [3.2.527](https://github.com/bridgecrewio/checkov/compare/3.2.526...3.2.527) - 2026-05-07
 
